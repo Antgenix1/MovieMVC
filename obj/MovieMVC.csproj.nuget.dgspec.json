@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj": {}
+    "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj": {
+    "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
+        "projectUniqueName": "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
         "projectName": "MovieMVC",
-        "projectPath": "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
+        "projectPath": "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
         "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\obj\\",
+        "outputPath": "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config",

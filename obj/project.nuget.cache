@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "632+fBsS3QbtDHuBQaY91KSfeKdzv1trXx4zRlMwYuDNeFt9mmv9EzZp1bXjg34kagwLBaQVJXzsC6TEzZx3fQ==",
+  "dgSpecHash": "H5hymlpJsZXiAI6VwpGamv6iQi5qi5YlmNd+gsE51nwlmfmGfiaFLPMU/6B0u63rHiZQhyFm9O5KOlvbhaiewg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
+  "projectFilePath": "C:\\Users\\aless\\GitHub\\ACE\\MovieMVC\\MovieMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aless\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\aless\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
