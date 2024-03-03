@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/aspnet:8.0.2-alpine3.18-amd64 AS base
 WORKDIR /app
 EXPOSE 5000
 
-ENV ASPNETCORE_URLS=http://+:5000
+ENV ASPNETCORE_URLS=http://*:5000
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0.201-alpine3.18-amd64 AS build
 ARG configuration=Release
